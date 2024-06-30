@@ -1,4 +1,4 @@
-import { getBrowser } from './leetcode/util.js';
+import { getBrowser } from './util.js';
 
 const api = getBrowser();
 

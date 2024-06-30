@@ -1,5 +1,5 @@
 
-import { appendProblemToReadme, sortTopicsInReadme } from '../scripts/leetcode/readmeTopics.js';
+import { appendProblemToReadme, sortTopicsInReadme } from '../scripts/readmeTopics.js';
 
 describe('appendProblemToReadme', () => {
   it('should correctly append to previous readme which has start and end tags', () => {

@@ -24,7 +24,11 @@ const ignore = [
   '**/README.md',
   '**/assets/extension', // web store assets
   // webpack compiled files
-  '**/scripts/leetcode/**',
+  '**/scripts/leetcode.js',
+  '**/scripts/readmeTopics.js',
+  '**/scripts/submitBtn.js',
+  '**/scripts/util.js',
+  '**/scripts/version.js',
   '**/scripts/welcome.js',
   '**/scripts/popup.js',
   '**/manifest-chrome.json',

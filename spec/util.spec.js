@@ -1,4 +1,4 @@
-import { mergeStats } from '../scripts/leetcode/util.js';
+import { mergeStats } from '../scripts/util.js';
 
 describe('mergeStats', () => {
   it('should correctly merge stats', () => {
